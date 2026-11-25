@@ -1,0 +1,22 @@
+Search engine Submission:
+
+website:   free web submission
+  
+Bing         China                  =  (Bing Webmaster)
+Yahoo      United States
+Baidu       China
+Yandex    Russia
+ 
+Google Search is the most popular search engine in the world, with a dominant market share in most countries
+
+What is DA/PA 
+
+(DA/PA Checker Moz Extension)
+
+In the context of Search Engine Optimization (SEO), DA stands for Domain Authority and PA stands for Page Authority. These are metrics, developed by Moz, that assess the strength of a website or individual page in terms of its potential to rank in search engine results. 
+
+Domain Authority (DA) is a score that reflects the overall strength and trustworthiness of an entire website. It's a composite score ranging from 1 to 100, with higher scores indicating a more authoritative and reputable domain. 
+
+Page Authority (PA) is a score that reflects the ranking potential of a specific page on a website. It's also measured on a scale of 1 to 100, and higher scores suggest a page has a greater chance of ranking well in search results. 
+
+DA and PA are not official ranking factors used by search engines like Google, but they can be useful indicators of a website's or page's overall strength and potential. Understanding and improving these metrics can be part of a broader SEO strategy aimed at increasing visibility in search engine results pages. 
